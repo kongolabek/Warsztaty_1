@@ -76,7 +76,7 @@ public class Main2 {
     }
 
 
-
+// Wiem to losowanie mozna bylo zrobic ta metoda z shuffle ale chcialem tak
 
     static int [] getLottoRandNumbers(){
         Random rand = new Random();
